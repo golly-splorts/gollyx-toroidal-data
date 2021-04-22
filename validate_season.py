@@ -2,14 +2,14 @@ import os
 import json
 
 
-NSEASONS = 23
+NSEASONS = 2
 
 SERIES_GPD = {"LDS": 4, "LCS": 2, "HCS": 1}
 
 ABBR_TO_NAME = {
     "LDS": "League Division Series",
     "LCS": "League Championship Series",
-    "HCS": "Hellmouth Cup",
+    "HCS": "Toroidal Cup",
 }
 
 
