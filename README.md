@@ -1,3 +1,3 @@
-# gollyx-toroidal-test-data
+# gollyx-toroidal-data
 
-Test season/postseason data for the Toroidal Cup
+The Gold Mine for the Toroidal Cup
