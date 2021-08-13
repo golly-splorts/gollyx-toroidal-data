@@ -1,0 +1,479 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 19,
+                "team1Name": "Phoenix Freshrolls",
+                "team2Name": "Seattle Sneakers",
+                "team1Abbr": "FF",
+                "team2Abbr": "SS",
+                "patternName": "donutmultums",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "b722b300-dd35-485d-b40e-85b94ec4f08c",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 19,
+                "team1Name": "Elko Astronauts",
+                "team2Name": "Long Beach Flightless Birds",
+                "team1Abbr": "EA",
+                "team2Abbr": "LBFB",
+                "patternName": "donutcore",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "fe4d668e-d468-496b-9ff9-9d09e00ec532",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 19,
+                "team1Name": "Delaware Corporate Shells",
+                "team2Name": "Albuquerque Solarpunks",
+                "team1Abbr": "DECO",
+                "team2Abbr": "ABQ",
+                "patternName": "donutmethuselahs",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "f274fedb-e17f-483f-826f-618f53d4de59",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 19,
+                "team1Name": "Orlando Business Majors",
+                "team2Name": "Boylston Boogers",
+                "team1Abbr": "ORL",
+                "team2Abbr": "BB",
+                "patternName": "doublegaussian",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "ead986df-ec3d-4aa6-99e4-539f759e2ad1",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 19,
+                "team1Name": "Phoenix Freshrolls",
+                "team2Name": "Seattle Sneakers",
+                "team1Abbr": "FF",
+                "team2Abbr": "SS",
+                "patternName": "randomsegment",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "74802362-d228-4702-95e4-f6deb1519e96",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 19,
+                "team1Name": "Elko Astronauts",
+                "team2Name": "Long Beach Flightless Birds",
+                "team1Abbr": "EA",
+                "team2Abbr": "LBFB",
+                "patternName": "randys",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "0d75df9a-aeec-4f10-97f5-1405c99f334c",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 19,
+                "team1Name": "Delaware Corporate Shells",
+                "team2Name": "Albuquerque Solarpunks",
+                "team1Abbr": "DECO",
+                "team2Abbr": "ABQ",
+                "patternName": "donutrandom",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "02b7660d-6b4b-4748-bfe6-5db1320e95dd",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 19,
+                "team1Name": "Orlando Business Majors",
+                "team2Name": "Boylston Boogers",
+                "team1Abbr": "ORL",
+                "team2Abbr": "BB",
+                "patternName": "porchlights",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "e4e6dd45-fd6c-4cae-b406-82259e013470",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 19,
+                "team1Name": "Seattle Sneakers",
+                "team2Name": "Phoenix Freshrolls",
+                "team1Abbr": "SS",
+                "team2Abbr": "FF",
+                "patternName": "donutpi",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "f7967850-5012-4ad3-b9c0-65136d35665a",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 19,
+                "team1Name": "Long Beach Flightless Birds",
+                "team2Name": "Elko Astronauts",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "EA",
+                "patternName": "porchlights",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "593d7e2d-6051-44f1-95b1-662c6e11924d",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 19,
+                "team1Name": "Albuquerque Solarpunks",
+                "team2Name": "Delaware Corporate Shells",
+                "team1Abbr": "ABQ",
+                "team2Abbr": "DECO",
+                "patternName": "crabdonuts",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "4eaffbf0-2d0f-4f0e-90d3-94e56ece354a",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 19,
+                "team1Name": "Boylston Boogers",
+                "team2Name": "Orlando Business Majors",
+                "team1Abbr": "BB",
+                "team2Abbr": "ORL",
+                "patternName": "doublegaussian",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "8e335a56-56d4-46b6-b677-9cbda123ab84",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 19,
+                "team1Name": "Seattle Sneakers",
+                "team2Name": "Phoenix Freshrolls",
+                "team1Abbr": "SS",
+                "team2Abbr": "FF",
+                "patternName": "bigsegment",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "9c6f1f5c-68aa-4068-a1f0-215c4dfc9b40",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 19,
+                "team1Name": "Long Beach Flightless Birds",
+                "team2Name": "Elko Astronauts",
+                "team1Abbr": "LBFB",
+                "team2Abbr": "EA",
+                "patternName": "donutmath",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "18779794-c33c-4723-a1e1-90f656c79220",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 19,
+                "team1Name": "Albuquerque Solarpunks",
+                "team2Name": "Delaware Corporate Shells",
+                "team1Abbr": "ABQ",
+                "team2Abbr": "DECO",
+                "patternName": "donuttimebombredux",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "21e1340f-1091-4bd6-aedd-b34e0bd1dcec",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 19,
+                "team1Name": "Boylston Boogers",
+                "team2Name": "Orlando Business Majors",
+                "team1Abbr": "BB",
+                "team2Abbr": "ORL",
+                "patternName": "randomsegment",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "f1a50e6a-6fc9-4861-b453-f385faff981e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 19,
+                "team1Name": "Phoenix Freshrolls",
+                "team2Name": "Seattle Sneakers",
+                "team1Abbr": "FF",
+                "team2Abbr": "SS",
+                "patternName": "donutcore",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "9b8ab31f-2f66-4912-81d0-f9f815dcd812",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 19,
+                "team1Name": "Elko Astronauts",
+                "team2Name": "Long Beach Flightless Birds",
+                "team1Abbr": "EA",
+                "team2Abbr": "LBFB",
+                "patternName": "randomsegment",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "88332965-6d98-4452-8bad-f3883e8ccaa9",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 19,
+                "team1Name": "Delaware Corporate Shells",
+                "team2Name": "Albuquerque Solarpunks",
+                "team1Abbr": "DECO",
+                "team2Abbr": "ABQ",
+                "patternName": "donutmultums",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "ec99a0ac-760f-43ef-9884-88527d6ed980",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 19,
+                "team1Name": "Orlando Business Majors",
+                "team2Name": "Boylston Boogers",
+                "team1Abbr": "ORL",
+                "team2Abbr": "BB",
+                "patternName": "randys",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "6c80d481-cb50-4ad1-a69b-b8e3397153fa",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "league": "Cold League",
+                "season": 19,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "f580890d-6a9a-43a2-b231-9748bee04c61",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmultums",
+                "league": "Hot League",
+                "season": 19,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "930b1f4e-3967-4294-9368-fd70e9d1d898",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donuttimebombredux",
+                "league": "Cold League",
+                "season": 19,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "b4a099eb-1dc6-4ef2-9e7d-0ae1475d8f28",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmath",
+                "league": "Hot League",
+                "season": 19,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "76d3c8aa-2cf2-4ba6-b357-a3d203d8d3f0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donuttimebomb",
+                "league": "Cold League",
+                "season": 19,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "186e2763-456f-4913-afc7-3975c564a8b9",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "league": "Hot League",
+                "season": 19,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "4b5582a9-e120-48ba-87da-eeccda491772",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "doublegaussian",
+                "league": "Cold League",
+                "season": 19,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "276a9e4e-7dc0-4dc4-8928-3df8ecd85218",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutcore",
+                "league": "Hot League",
+                "season": 19,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "edca5ff0-e1e2-4737-adbc-58b63fb2501f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutcore",
+                "league": "Cold League",
+                "season": 19,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "0febd5d5-a9e8-40d4-bea8-638fbede9bf5",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutrandompartition",
+                "league": "Hot League",
+                "season": 19,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "2a499048-5da1-4790-8fdf-22020237eb3d",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutcore",
+                "description": "Game 1, Toroidal Cup",
+                "season": 19,
+                "id": "aaae09d3-c9db-4907-82dc-3d1016a41af0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "porchlights",
+                "description": "Game 2, Toroidal Cup",
+                "season": 19,
+                "id": "3e16e4d5-12d7-4946-b306-7d8761598f55",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutrandompartition",
+                "description": "Game 3, Toroidal Cup",
+                "season": 19,
+                "id": "59ef023a-5322-4b60-85c7-33374fce6747",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donuttimebombredux",
+                "description": "Game 4, Toroidal Cup",
+                "season": 19,
+                "id": "7e31f981-a4fa-4887-bc7f-be12bd852787",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmethuselahs",
+                "description": "Game 5, Toroidal Cup",
+                "season": 19,
+                "id": "13a32e99-ab05-4366-8cfc-625beff13fa4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "donutmath",
+                "description": "Game 6, Toroidal Cup",
+                "season": 19,
+                "id": "eab58d3a-661c-4c18-b68d-e290c4056ead",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "crabdonuts",
+                "description": "Game 7, Toroidal Cup",
+                "season": 19,
+                "id": "e2e65d61-3bfa-4a5b-b75e-2e108397f0eb",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
