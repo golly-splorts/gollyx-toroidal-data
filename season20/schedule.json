@@ -123,7 +123,7 @@
             "id": "0bfcbdde-8297-4e58-8481-e869a3eb4d02",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#9963ab"
         },
         {
@@ -266,7 +266,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#aa8040",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -379,7 +379,7 @@
             "id": "8a210193-acd7-4442-8a6d-6c1e14e007a8",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#d41199"
         },
         {
@@ -564,7 +564,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         }
     ],
     [
@@ -663,7 +663,7 @@
             "id": "804bd4aa-f86e-46da-82e2-61232ea716be",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#697a21"
         },
         {
@@ -806,7 +806,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#aa8040",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Sugar Grove Eavesdroppers",
@@ -934,7 +934,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1075,7 +1075,7 @@
             "id": "714861c8-121c-4c02-9b5c-6cec6ab4c9f2",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#9963ab"
         },
         {
@@ -1246,7 +1246,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Boylston Boogers",
