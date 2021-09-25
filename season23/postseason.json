@@ -145,9 +145,9 @@
             {
                 "league": "Hot League",
                 "season": 23,
-                "team1Name": "San Francisco Boat Shoes",
+                "team1Name": "Vegas Vampires",
                 "team2Name": "Albuquerque Solarpunks",
-                "team1Abbr": "SFBS",
+                "team1Abbr": "VV",
                 "team2Abbr": "ABQ",
                 "description": "Game 1, Hot League Division Series 2",
                 "id": "c8f89e4a-e6c8-4a9e-b4e3-50b66b139785",
@@ -169,7 +169,7 @@
                 "team1Score": 171,
                 "team2Score": 101,
                 "generations": 1773,
-                "team1Color": "#e7d7c1",
+                "team1Color": "#aa8040",
                 "team2Color": "#d41199",
                 "day": 9,
                 "team1PostseasonWinLoss": [
@@ -335,9 +335,9 @@
             {
                 "league": "Hot League",
                 "season": 23,
-                "team1Name": "San Francisco Boat Shoes",
+                "team1Name": "Vegas Vampires",
                 "team2Name": "Albuquerque Solarpunks",
-                "team1Abbr": "SFBS",
+                "team1Abbr": "VV",
                 "team2Abbr": "ABQ",
                 "description": "Game 2, Hot League Division Series 2",
                 "id": "def2f1f0-6f49-436a-9d2a-4632fe8622a9",
@@ -359,7 +359,7 @@
                 "team1Score": 107,
                 "team2Score": 259,
                 "generations": 1374,
-                "team1Color": "#e7d7c1",
+                "team1Color": "#aa8040",
                 "team2Color": "#d41199",
                 "day": 10,
                 "team1PostseasonWinLoss": [
@@ -526,9 +526,9 @@
                 "league": "Hot League",
                 "season": 23,
                 "team1Name": "Albuquerque Solarpunks",
-                "team2Name": "San Francisco Boat Shoes",
+                "team2Name": "Vegas Vampires",
                 "team1Abbr": "ABQ",
-                "team2Abbr": "SFBS",
+                "team2Abbr": "VV",
                 "description": "Game 3, Hot League Division Series 2",
                 "id": "cb5386b0-0551-45e5-a84a-cf2650c6257b",
                 "isPostseason": true,
@@ -550,7 +550,7 @@
                 "team2Score": 241,
                 "generations": 1540,
                 "team1Color": "#d41199",
-                "team2Color": "#e7d7c1",
+                "team2Color": "#aa8040",
                 "day": 11,
                 "team1PostseasonWinLoss": [
                     1,
@@ -669,9 +669,9 @@
                 "league": "Hot League",
                 "season": 23,
                 "team1Name": "Albuquerque Solarpunks",
-                "team2Name": "San Francisco Boat Shoes",
+                "team2Name": "Vegas Vampires",
                 "team1Abbr": "ABQ",
-                "team2Abbr": "SFBS",
+                "team2Abbr": "VV",
                 "description": "Game 4, Hot League Division Series 2",
                 "id": "46468ead-a563-4d04-9072-475dd2480fef",
                 "isPostseason": true,
@@ -693,7 +693,7 @@
                 "team2Score": 212,
                 "generations": 4905,
                 "team1Color": "#d41199",
-                "team2Color": "#e7d7c1",
+                "team2Color": "#aa8040",
                 "day": 12,
                 "team1PostseasonWinLoss": [
                     1,
@@ -861,9 +861,9 @@
             },
             {
                 "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "San Francisco Boat Shoes",
+                "team2Name": "Vegas Vampires",
                 "team1Abbr": "SGE",
-                "team2Abbr": "SFBS",
+                "team2Abbr": "VV",
                 "league": "Hot League",
                 "season": 23,
                 "description": "Game 1, Hot League Championship Series",
@@ -887,7 +887,7 @@
                 "team2Score": 235,
                 "generations": 1000,
                 "team1Color": "#fefe67",
-                "team2Color": "#e7d7c1",
+                "team2Color": "#aa8040",
                 "day": 14,
                 "team1PostseasonWinLoss": [
                     3,
@@ -957,9 +957,9 @@
             },
             {
                 "team1Name": "Sugar Grove Eavesdroppers",
-                "team2Name": "San Francisco Boat Shoes",
+                "team2Name": "Vegas Vampires",
                 "team1Abbr": "SGE",
-                "team2Abbr": "SFBS",
+                "team2Abbr": "VV",
                 "league": "Hot League",
                 "season": 23,
                 "description": "Game 2, Hot League Championship Series",
@@ -983,7 +983,7 @@
                 "team2Score": 342,
                 "generations": 1074,
                 "team1Color": "#fefe67",
-                "team2Color": "#e7d7c1",
+                "team2Color": "#aa8040",
                 "day": 15,
                 "team1PostseasonWinLoss": [
                     3,
@@ -1052,9 +1052,9 @@
                 ]
             },
             {
-                "team1Name": "San Francisco Boat Shoes",
+                "team1Name": "Vegas Vampires",
                 "team2Name": "Sugar Grove Eavesdroppers",
-                "team1Abbr": "SFBS",
+                "team1Abbr": "VV",
                 "team2Abbr": "SGE",
                 "league": "Hot League",
                 "season": 23,
@@ -1078,7 +1078,7 @@
                 "team1Score": 212,
                 "team2Score": 140,
                 "generations": 2962,
-                "team1Color": "#e7d7c1",
+                "team1Color": "#aa8040",
                 "team2Color": "#fefe67",
                 "day": 16,
                 "team1PostseasonWinLoss": [
@@ -1153,9 +1153,9 @@
         [
             {
                 "team1Name": "San Diego Balloon Animals",
-                "team2Name": "San Francisco Boat Shoes",
+                "team2Name": "Vegas Vampires",
                 "team1Abbr": "SDBA",
-                "team2Abbr": "SFBS",
+                "team2Abbr": "VV",
                 "description": "Game 1, Toroidal Cup",
                 "season": 23,
                 "id": "f1c678cd-e050-4edd-a383-144cce9c3ec3",
@@ -1178,7 +1178,7 @@
                 "team2Score": 107,
                 "generations": 2463,
                 "team1Color": "#f08700",
-                "team2Color": "#e7d7c1",
+                "team2Color": "#aa8040",
                 "day": 18,
                 "team1PostseasonWinLoss": [
                     6,
@@ -1201,9 +1201,9 @@
         [
             {
                 "team1Name": "San Diego Balloon Animals",
-                "team2Name": "San Francisco Boat Shoes",
+                "team2Name": "Vegas Vampires",
                 "team1Abbr": "SDBA",
-                "team2Abbr": "SFBS",
+                "team2Abbr": "VV",
                 "description": "Game 2, Toroidal Cup",
                 "season": 23,
                 "id": "19465602-d0ba-4945-808f-8d29112e970f",
@@ -1226,7 +1226,7 @@
                 "team2Score": 165,
                 "generations": 1725,
                 "team1Color": "#f08700",
-                "team2Color": "#e7d7c1",
+                "team2Color": "#aa8040",
                 "day": 19,
                 "team1PostseasonWinLoss": [
                     7,
@@ -1248,9 +1248,9 @@
         ],
         [
             {
-                "team1Name": "San Francisco Boat Shoes",
+                "team1Name": "Vegas Vampires",
                 "team2Name": "San Diego Balloon Animals",
-                "team1Abbr": "SFBS",
+                "team1Abbr": "VV",
                 "team2Abbr": "SDBA",
                 "description": "Game 3, Toroidal Cup",
                 "season": 23,
@@ -1273,7 +1273,7 @@
                 "team1Score": 100,
                 "team2Score": 106,
                 "generations": 1102,
-                "team1Color": "#e7d7c1",
+                "team1Color": "#aa8040",
                 "team2Color": "#f08700",
                 "day": 20,
                 "team1PostseasonWinLoss": [
@@ -1296,9 +1296,9 @@
         ],
         [
             {
-                "team1Name": "San Francisco Boat Shoes",
+                "team1Name": "Vegas Vampires",
                 "team2Name": "San Diego Balloon Animals",
-                "team1Abbr": "SFBS",
+                "team1Abbr": "VV",
                 "team2Abbr": "SDBA",
                 "description": "Game 4, Toroidal Cup",
                 "season": 23,
@@ -1321,7 +1321,7 @@
                 "team1Score": 172,
                 "team2Score": 111,
                 "generations": 2313,
-                "team1Color": "#e7d7c1",
+                "team1Color": "#aa8040",
                 "team2Color": "#f08700",
                 "day": 21,
                 "team1PostseasonWinLoss": [
@@ -1344,9 +1344,9 @@
         ],
         [
             {
-                "team1Name": "San Francisco Boat Shoes",
+                "team1Name": "Vegas Vampires",
                 "team2Name": "San Diego Balloon Animals",
-                "team1Abbr": "SFBS",
+                "team1Abbr": "VV",
                 "team2Abbr": "SDBA",
                 "description": "Game 5, Toroidal Cup",
                 "season": 23,
@@ -1369,7 +1369,7 @@
                 "team1Score": 192,
                 "team2Score": 130,
                 "generations": 1280,
-                "team1Color": "#e7d7c1",
+                "team1Color": "#aa8040",
                 "team2Color": "#f08700",
                 "day": 22,
                 "team1PostseasonWinLoss": [
@@ -1393,9 +1393,9 @@
         [
             {
                 "team1Name": "San Diego Balloon Animals",
-                "team2Name": "San Francisco Boat Shoes",
+                "team2Name": "Vegas Vampires",
                 "team1Abbr": "SDBA",
-                "team2Abbr": "SFBS",
+                "team2Abbr": "VV",
                 "description": "Game 6, Toroidal Cup",
                 "season": 23,
                 "id": "2009cd12-55d4-4f9f-821a-b2a60ffac1c3",
@@ -1418,7 +1418,7 @@
                 "team2Score": 235,
                 "generations": 1775,
                 "team1Color": "#f08700",
-                "team2Color": "#e7d7c1",
+                "team2Color": "#aa8040",
                 "day": 23,
                 "team1PostseasonWinLoss": [
                     8,

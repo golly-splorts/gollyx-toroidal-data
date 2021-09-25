@@ -39,8 +39,8 @@
             ]
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team1Abbr": "FWPT",
+            "team1Name": "Louisville Illusionists",
+            "team1Abbr": "LIL",
             "team2Name": "Tucson Butchers",
             "team2Abbr": "TB",
             "season": 22,
@@ -155,8 +155,8 @@
         {
             "team1Name": "Long Beach Flightless Birds",
             "team1Abbr": "LBFB",
-            "team2Name": "Baltimore Texas",
-            "team2Abbr": "BTX",
+            "team2Name": "Baltimore Piano Tuners",
+            "team2Abbr": "BPT",
             "season": 22,
             "day": 0,
             "id": "f977c80f-b80d-488b-b272-3295335bdc57",
@@ -305,8 +305,8 @@
             ]
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team1Abbr": "SFBS",
+            "team1Name": "Vegas Vampires",
+            "team1Abbr": "VV",
             "team2Name": "Boylston Boogers",
             "team2Abbr": "BB",
             "season": 22,
@@ -314,7 +314,7 @@
             "id": "70bf3a81-82f6-4624-bb73-4b47f652bc35",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "donutmath",
@@ -423,8 +423,8 @@
         {
             "team1Name": "Tucson Butchers",
             "team1Abbr": "TB",
-            "team2Name": "Ft. Worth Piano Tuners",
-            "team2Abbr": "FWPT",
+            "team2Name": "Louisville Illusionists",
+            "team2Abbr": "LIL",
             "season": 22,
             "day": 1,
             "id": "24c71b91-d1ec-4258-a63b-004a16ab2b94",
@@ -499,8 +499,8 @@
         {
             "team1Name": "Seattle Sneakers",
             "team1Abbr": "SS",
-            "team2Name": "Baltimore Texas",
-            "team2Abbr": "BTX",
+            "team2Name": "Baltimore Piano Tuners",
+            "team2Abbr": "BPT",
             "season": 22,
             "day": 1,
             "id": "e190af29-5773-42ef-9d25-be07c6305333",
@@ -611,8 +611,8 @@
             ]
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team1Abbr": "SFBS",
+            "team1Name": "Vegas Vampires",
+            "team1Abbr": "VV",
             "team2Name": "Delaware Corporate Shells",
             "team2Abbr": "DECO",
             "season": 22,
@@ -620,7 +620,7 @@
             "id": "9dc99ed8-d98f-4940-989e-bd6e022270f3",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#a0e7e8",
             "map": {
                 "patternName": "doublegaussian",
@@ -881,8 +881,8 @@
         {
             "team1Name": "Salt Lake Turbulence",
             "team1Abbr": "SLC",
-            "team2Name": "Baltimore Texas",
-            "team2Abbr": "BTX",
+            "team2Name": "Baltimore Piano Tuners",
+            "team2Abbr": "BPT",
             "season": 22,
             "day": 2,
             "id": "bd6e1013-717b-4a24-bf4e-8f916ae01943",
@@ -919,8 +919,8 @@
         {
             "team1Name": "San Diego Balloon Animals",
             "team1Abbr": "SDBA",
-            "team2Name": "Ft. Worth Piano Tuners",
-            "team2Abbr": "FWPT",
+            "team2Name": "Louisville Illusionists",
+            "team2Abbr": "LIL",
             "season": 22,
             "day": 2,
             "id": "3f8026b8-125f-4f3b-853d-db027bbf0f2c",
@@ -1031,8 +1031,8 @@
             ]
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team1Abbr": "SFBS",
+            "team1Name": "Vegas Vampires",
+            "team1Abbr": "VV",
             "team2Name": "Sugar Grove Eavesdroppers",
             "team2Abbr": "SGE",
             "season": 22,
@@ -1040,7 +1040,7 @@
             "id": "e0e66806-94e3-45ab-b421-6befba53130c",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#fefe67",
             "map": {
                 "patternName": "donutcore",
@@ -1185,8 +1185,8 @@
             ]
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team1Abbr": "BTX",
+            "team1Name": "Baltimore Piano Tuners",
+            "team1Abbr": "BPT",
             "team2Name": "San Diego Balloon Animals",
             "team2Abbr": "SDBA",
             "season": 22,
@@ -1263,8 +1263,8 @@
         {
             "team1Name": "Seattle Sneakers",
             "team1Abbr": "SS",
-            "team2Name": "Ft. Worth Piano Tuners",
-            "team2Abbr": "FWPT",
+            "team2Name": "Louisville Illusionists",
+            "team2Abbr": "LIL",
             "season": 22,
             "day": 3,
             "id": "eb30b619-24b9-4f1d-ac67-c18ce56e4c7f",
@@ -1453,15 +1453,15 @@
         {
             "team1Name": "Boylston Boogers",
             "team1Abbr": "BB",
-            "team2Name": "San Francisco Boat Shoes",
-            "team2Abbr": "SFBS",
+            "team2Name": "Vegas Vampires",
+            "team2Abbr": "VV",
             "season": 22,
             "day": 3,
             "id": "bba6a654-32c3-437a-aa50-76810a9d4523",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#aa8040",
             "map": {
                 "patternName": "porchlights",
                 "mapName": "Donut Hot Tub",
@@ -1531,8 +1531,8 @@
         {
             "team1Name": "Seattle Sneakers",
             "team1Abbr": "SS",
-            "team2Name": "Baltimore Texas",
-            "team2Abbr": "BTX",
+            "team2Name": "Baltimore Piano Tuners",
+            "team2Abbr": "BPT",
             "season": 22,
             "day": 4,
             "id": "8b4f1d0d-0d2d-4e09-b32f-7607fd6c05ab",
@@ -1681,8 +1681,8 @@
             ]
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team1Abbr": "FWPT",
+            "team1Name": "Louisville Illusionists",
+            "team1Abbr": "LIL",
             "team2Name": "Long Beach Flightless Birds",
             "team2Abbr": "LBFB",
             "season": 22,
@@ -1871,8 +1871,8 @@
             ]
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team1Abbr": "SFBS",
+            "team1Name": "Vegas Vampires",
+            "team1Abbr": "VV",
             "team2Name": "Sugar Grove Eavesdroppers",
             "team2Abbr": "SGE",
             "season": 22,
@@ -1880,7 +1880,7 @@
             "id": "eba8168d-ec4d-40e6-a7a2-386c376d486e",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#fefe67",
             "map": {
                 "patternName": "donuttimebombredux",
@@ -1949,8 +1949,8 @@
             ]
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team1Abbr": "FWPT",
+            "team1Name": "Louisville Illusionists",
+            "team1Abbr": "LIL",
             "team2Name": "Salt Lake Turbulence",
             "team2Abbr": "SLC",
             "season": 22,
@@ -1987,8 +1987,8 @@
             ]
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team1Abbr": "BTX",
+            "team1Name": "Baltimore Piano Tuners",
+            "team1Abbr": "BPT",
             "team2Name": "Long Beach Flightless Birds",
             "team2Abbr": "LBFB",
             "season": 22,
@@ -2217,15 +2217,15 @@
         {
             "team1Name": "Milwaukee Flamingos",
             "team1Abbr": "MILF",
-            "team2Name": "San Francisco Boat Shoes",
-            "team2Abbr": "SFBS",
+            "team2Name": "Vegas Vampires",
+            "team2Abbr": "VV",
             "season": 22,
             "day": 5,
             "id": "e2c9c70a-823d-438c-b6c4-85e8d69cb2e4",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#aa8040",
             "map": {
                 "patternName": "porchlights",
                 "mapName": "Donut Hot Tub",
@@ -2295,8 +2295,8 @@
         {
             "team1Name": "San Diego Balloon Animals",
             "team1Abbr": "SDBA",
-            "team2Name": "Ft. Worth Piano Tuners",
-            "team2Abbr": "FWPT",
+            "team2Name": "Louisville Illusionists",
+            "team2Abbr": "LIL",
             "season": 22,
             "day": 6,
             "id": "efb40e95-1743-4d07-9e14-ec5fba04b287",
@@ -2445,8 +2445,8 @@
             ]
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team1Abbr": "BTX",
+            "team1Name": "Baltimore Piano Tuners",
+            "team1Abbr": "BPT",
             "team2Name": "Phoenix Freshrolls",
             "team2Abbr": "FF",
             "season": 22,
@@ -2559,8 +2559,8 @@
             ]
         },
         {
-            "team1Name": "San Francisco Boat Shoes",
-            "team1Abbr": "SFBS",
+            "team1Name": "Vegas Vampires",
+            "team1Abbr": "VV",
             "team2Name": "Delaware Corporate Shells",
             "team2Abbr": "DECO",
             "season": 22,
@@ -2568,7 +2568,7 @@
             "id": "abb67c8d-a4a5-427b-afd0-c7833d1e8d67",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7d7c1",
+            "team1Color": "#aa8040",
             "team2Color": "#a0e7e8",
             "map": {
                 "patternName": "donutrandom",
@@ -2675,8 +2675,8 @@
     ],
     [
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team1Abbr": "FWPT",
+            "team1Name": "Louisville Illusionists",
+            "team1Abbr": "LIL",
             "team2Name": "Long Beach Flightless Birds",
             "team2Abbr": "LBFB",
             "season": 22,
@@ -2827,8 +2827,8 @@
             ]
         },
         {
-            "team1Name": "Baltimore Texas",
-            "team1Abbr": "BTX",
+            "team1Name": "Baltimore Piano Tuners",
+            "team1Abbr": "BPT",
             "team2Name": "Jersey OSHA Violations",
             "team2Abbr": "OSHA",
             "season": 22,
@@ -2943,15 +2943,15 @@
         {
             "team1Name": "Sugar Grove Eavesdroppers",
             "team1Abbr": "SGE",
-            "team2Name": "San Francisco Boat Shoes",
-            "team2Abbr": "SFBS",
+            "team2Name": "Vegas Vampires",
+            "team2Abbr": "VV",
             "season": 22,
             "day": 7,
             "id": "cc424f80-ca23-4eda-a059-02e823a77a80",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#fefe67",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#aa8040",
             "map": {
                 "patternName": "donutmethuselahs",
                 "mapName": "Donut Fisticuffs",
@@ -3097,8 +3097,8 @@
         {
             "team1Name": "Salt Lake Turbulence",
             "team1Abbr": "SLC",
-            "team2Name": "Baltimore Texas",
-            "team2Abbr": "BTX",
+            "team2Name": "Baltimore Piano Tuners",
+            "team2Abbr": "BPT",
             "season": 22,
             "day": 8,
             "id": "13fb7335-1992-48c9-9bf0-007a86a8ccff",
@@ -3133,8 +3133,8 @@
             ]
         },
         {
-            "team1Name": "Ft. Worth Piano Tuners",
-            "team1Abbr": "FWPT",
+            "team1Name": "Louisville Illusionists",
+            "team1Abbr": "LIL",
             "team2Name": "Long Beach Flightless Birds",
             "team2Abbr": "LBFB",
             "season": 22,
@@ -3249,15 +3249,15 @@
         {
             "team1Name": "Boylston Boogers",
             "team1Abbr": "BB",
-            "team2Name": "San Francisco Boat Shoes",
-            "team2Abbr": "SFBS",
+            "team2Name": "Vegas Vampires",
+            "team2Abbr": "VV",
             "season": 22,
             "day": 8,
             "id": "b7b69646-90ab-4339-845e-ac113e924216",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#e7d7c1",
+            "team2Color": "#aa8040",
             "map": {
                 "patternName": "donutmethuselahs",
                 "mapName": "Donut Fisticuffs",
