@@ -137,7 +137,7 @@
             "id": "187b2273-a99e-480e-8140-1a1da60f187b",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#fefe67"
         }
     ],
@@ -238,7 +238,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#aa8040",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Boylston Boogers",
@@ -380,7 +380,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#697a21",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Vegas Vampires",
@@ -536,7 +536,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Boylston Boogers",
@@ -650,7 +650,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Albuquerque Solarpunks",
@@ -806,7 +806,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#fefe67",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -962,7 +962,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#aa8040",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1076,7 +1076,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8"
+            "team2Color": "#e7a0e8"
         },
         {
             "team1Name": "Orlando Business Majors",
@@ -1245,7 +1245,7 @@
             "id": "3ae82107-3dc4-4882-b84f-92a911f0fb3e",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ff1717"
         },
         {

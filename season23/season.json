@@ -238,7 +238,7 @@
             "id": "e30de045-4149-4a29-a1d6-748c6fcddf18",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#d41199",
             "map": {
                 "patternName": "donutmethuselahs",
@@ -658,7 +658,7 @@
             "id": "e227d651-60c8-427f-887d-8b3573916e48",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "quadjustyna",
@@ -1002,7 +1002,7 @@
             "id": "b5b5f719-279e-447f-9fe2-9e3593c90a69",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#a0e7e8",
+            "team1Color": "#e7a0e8",
             "team2Color": "#ff66cc",
             "map": {
                 "patternName": "donutrandompartition",
@@ -1461,7 +1461,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "donutcore",
                 "mapName": "Donut Core",
@@ -1881,7 +1881,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "porchlights",
                 "mapName": "Donut Hot Tub",
@@ -2263,7 +2263,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Donut Candy",
@@ -2493,7 +2493,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "randomsegment",
                 "mapName": "Donut Candy",
@@ -2875,7 +2875,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#fefe67",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "donutpi",
                 "mapName": "Donut Pie",
@@ -3371,7 +3371,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#d41199",
-            "team2Color": "#a0e7e8",
+            "team2Color": "#e7a0e8",
             "map": {
                 "patternName": "randys",
                 "mapName": "Randy's Donuts",
