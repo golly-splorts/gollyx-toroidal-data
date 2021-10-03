@@ -305,8 +305,8 @@
             ]
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
+            "team1Name": "San Francisco Boat Shoes",
+            "team1Abbr": "SFBS",
             "team2Name": "Detroit Grape Chews",
             "team2Abbr": "DET",
             "season": 20,
@@ -314,7 +314,7 @@
             "gameid": "0bfcbdde-8297-4e58-8481-e869a3eb4d02",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "map": {
                 "patternName": "donutpi",
@@ -689,15 +689,15 @@
         {
             "team1Name": "Vegas Vampires",
             "team1Abbr": "VV",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "season": 20,
             "day": 1,
             "gameid": "570b9bb7-9113-4604-9fe9-026ff32a2137",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#aa8040",
-            "team2Color": "#e7a0e8",
+            "team2Color": "#e7d7c1",
             "map": {
                 "patternName": "donutcore",
                 "mapName": "Donut Core",
@@ -993,8 +993,8 @@
             ]
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
+            "team1Name": "San Francisco Boat Shoes",
+            "team1Abbr": "SFBS",
             "team2Name": "Albuquerque Solarpunks",
             "team2Abbr": "ABQ",
             "season": 20,
@@ -1002,7 +1002,7 @@
             "gameid": "8a210193-acd7-4442-8a6d-6c1e14e007a8",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#e7d7c1",
             "team2Color": "#d41199",
             "map": {
                 "patternName": "crabdonuts",
@@ -1491,15 +1491,15 @@
         {
             "team1Name": "Milwaukee Flamingos",
             "team1Abbr": "MILF",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "season": 20,
             "day": 3,
             "gameid": "b0532a6c-5c27-4e5e-8376-7f0e25c227ea",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#e7a0e8",
+            "team2Color": "#e7d7c1",
             "map": {
                 "patternName": "crabdonuts",
                 "mapName": "Crab Donuts",
@@ -1757,8 +1757,8 @@
             ]
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
+            "team1Name": "San Francisco Boat Shoes",
+            "team1Abbr": "SFBS",
             "team2Name": "Boylston Boogers",
             "team2Abbr": "BB",
             "season": 20,
@@ -1766,7 +1766,7 @@
             "gameid": "804bd4aa-f86e-46da-82e2-61232ea716be",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21",
             "map": {
                 "patternName": "donutcore",
@@ -2141,15 +2141,15 @@
         {
             "team1Name": "Vegas Vampires",
             "team1Abbr": "VV",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "season": 20,
             "day": 5,
             "gameid": "51cdcb9e-d765-4737-8278-1af19e9f13a9",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#aa8040",
-            "team2Color": "#e7a0e8",
+            "team2Color": "#e7d7c1",
             "map": {
                 "patternName": "donutrandom",
                 "mapName": "East Donut Desert",
@@ -2485,15 +2485,15 @@
         {
             "team1Name": "Orlando Business Majors",
             "team1Abbr": "ORL",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "season": 20,
             "day": 6,
             "gameid": "85d4c839-7631-4411-985a-b04a953cfe13",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#0dab76",
-            "team2Color": "#e7a0e8",
+            "team2Color": "#e7d7c1",
             "map": {
                 "patternName": "donutrandompartition",
                 "mapName": "East Donut Dessert",
@@ -2865,8 +2865,8 @@
             ]
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
+            "team1Name": "San Francisco Boat Shoes",
+            "team1Abbr": "SFBS",
             "team2Name": "Detroit Grape Chews",
             "team2Abbr": "DET",
             "season": 20,
@@ -2874,7 +2874,7 @@
             "gameid": "714861c8-121c-4c02-9b5c-6cec6ab4c9f2",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#e7d7c1",
             "team2Color": "#9963ab",
             "map": {
                 "patternName": "donutcore",
@@ -3325,15 +3325,15 @@
         {
             "team1Name": "Detroit Grape Chews",
             "team1Abbr": "DET",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "season": 20,
             "day": 8,
             "gameid": "5da69b1a-bb88-4a48-8f92-37712dda468b",
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#e7a0e8",
+            "team2Color": "#e7d7c1",
             "map": {
                 "patternName": "donutpi",
                 "mapName": "Donut Pie",

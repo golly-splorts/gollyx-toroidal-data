@@ -85,8 +85,8 @@
             "team2Color": "#ffb627"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
+            "team1Name": "San Francisco Boat Shoes",
+            "team1Abbr": "SFBS",
             "team2Name": "Albuquerque Solarpunks",
             "team2Abbr": "ABQ",
             "patternName": "donutmethuselahs",
@@ -95,7 +95,7 @@
             "gameid": "e30de045-4149-4a29-a1d6-748c6fcddf18",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#e7d7c1",
             "team2Color": "#d41199"
         },
         {
@@ -241,8 +241,8 @@
             "team2Color": "#d41199"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
+            "team1Name": "San Francisco Boat Shoes",
+            "team1Abbr": "SFBS",
             "team2Name": "Boylston Boogers",
             "team2Abbr": "BB",
             "patternName": "quadjustyna",
@@ -251,7 +251,7 @@
             "gameid": "e227d651-60c8-427f-887d-8b3573916e48",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#e7d7c1",
             "team2Color": "#697a21"
         },
         {
@@ -369,8 +369,8 @@
             "team2Color": "#ff1717"
         },
         {
-            "team1Name": "Delaware Corporate Shells",
-            "team1Abbr": "DECO",
+            "team1Name": "San Francisco Boat Shoes",
+            "team1Abbr": "SFBS",
             "team2Name": "Milwaukee Flamingos",
             "team2Abbr": "MILF",
             "patternName": "donutrandompartition",
@@ -379,7 +379,7 @@
             "gameid": "b5b5f719-279e-447f-9fe2-9e3593c90a69",
             "isPostseason": false,
             "league": "Hot League",
-            "team1Color": "#e7a0e8",
+            "team1Color": "#e7d7c1",
             "team2Color": "#ff66cc"
         },
         {
@@ -541,8 +541,8 @@
         {
             "team1Name": "Alewife Arsonists",
             "team1Abbr": "AA",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "patternName": "donutcore",
             "season": 23,
             "day": 3,
@@ -550,7 +550,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff1717",
-            "team2Color": "#e7a0e8"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Sugar Grove Eavesdroppers",
@@ -697,8 +697,8 @@
         {
             "team1Name": "Detroit Grape Chews",
             "team1Abbr": "DET",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "patternName": "porchlights",
             "season": 23,
             "day": 4,
@@ -706,7 +706,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#9963ab",
-            "team2Color": "#e7a0e8"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -839,8 +839,8 @@
         {
             "team1Name": "Milwaukee Flamingos",
             "team1Abbr": "MILF",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "patternName": "randomsegment",
             "season": 23,
             "day": 5,
@@ -848,7 +848,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ff66cc",
-            "team2Color": "#e7a0e8"
+            "team2Color": "#e7d7c1"
         }
     ],
     [
@@ -925,8 +925,8 @@
         {
             "team1Name": "Sacramento Boot Lickers",
             "team1Abbr": "SAC",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "patternName": "randomsegment",
             "season": 23,
             "day": 6,
@@ -934,7 +934,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#ffb627",
-            "team2Color": "#e7a0e8"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Alewife Arsonists",
@@ -1067,8 +1067,8 @@
         {
             "team1Name": "Sugar Grove Eavesdroppers",
             "team1Abbr": "SGE",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "patternName": "donutpi",
             "season": 23,
             "day": 7,
@@ -1076,7 +1076,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#fefe67",
-            "team2Color": "#e7a0e8"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Sacramento Boot Lickers",
@@ -1251,8 +1251,8 @@
         {
             "team1Name": "Albuquerque Solarpunks",
             "team1Abbr": "ABQ",
-            "team2Name": "Delaware Corporate Shells",
-            "team2Abbr": "DECO",
+            "team2Name": "San Francisco Boat Shoes",
+            "team2Abbr": "SFBS",
             "patternName": "randys",
             "season": 23,
             "day": 8,
@@ -1260,7 +1260,7 @@
             "isPostseason": false,
             "league": "Hot League",
             "team1Color": "#d41199",
-            "team2Color": "#e7a0e8"
+            "team2Color": "#e7d7c1"
         },
         {
             "team1Name": "Sugar Grove Eavesdroppers",
