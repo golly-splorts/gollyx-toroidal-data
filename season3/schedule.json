@@ -87,7 +87,7 @@
         {
             "team1Name": "Sugar Grove Eavesdroppers",
             "team1Abbr": "SGE",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Alewife Arsonists",
             "team2Abbr": "AA",
             "patternName": "donutmultums",
             "season": 3,
@@ -243,7 +243,7 @@
         {
             "team1Name": "Sugar Grove Eavesdroppers",
             "team1Abbr": "SGE",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Alewife Arsonists",
             "team2Abbr": "AA",
             "patternName": "doublegaussian",
             "season": 3,
@@ -399,7 +399,7 @@
         {
             "team1Name": "Milwaukee Flamingos",
             "team1Abbr": "MILF",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Alewife Arsonists",
             "team2Abbr": "AA",
             "patternName": "donuttimebomb",
             "season": 3,
@@ -555,7 +555,7 @@
         {
             "team1Name": "San Francisco Boat Shoes",
             "team1Abbr": "SFBS",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Alewife Arsonists",
             "team2Abbr": "AA",
             "patternName": "randys",
             "season": 3,
@@ -669,7 +669,7 @@
         {
             "team1Name": "Boylston Boogers",
             "team1Abbr": "BB",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Alewife Arsonists",
             "team2Abbr": "AA",
             "patternName": "donutmath",
             "season": 3,
@@ -783,7 +783,7 @@
         {
             "team1Name": "San Francisco Boat Shoes",
             "team1Abbr": "SFBS",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Alewife Arsonists",
             "team2Abbr": "AA",
             "patternName": "donutmultums",
             "season": 3,
@@ -951,7 +951,7 @@
             "team2Color": "#a0e7e8"
         },
         {
-            "team1Name": "Phoenix Freshrolls",
+            "team1Name": "Alewife Arsonists",
             "team1Abbr": "AA",
             "team2Name": "Detroit Grape Chews",
             "team2Abbr": "DET",
@@ -1123,7 +1123,7 @@
         {
             "team1Name": "Boylston Boogers",
             "team1Abbr": "BB",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Alewife Arsonists",
             "team2Abbr": "AA",
             "patternName": "donutrandompartition",
             "season": 3,
@@ -1251,7 +1251,7 @@
         {
             "team1Name": "Albuquerque Solarpunks",
             "team1Abbr": "ABQ",
-            "team2Name": "Phoenix Freshrolls",
+            "team2Name": "Alewife Arsonists",
             "team2Abbr": "AA",
             "patternName": "donutcore",
             "season": 3,
